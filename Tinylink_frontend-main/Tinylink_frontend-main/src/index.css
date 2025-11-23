@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply bg-[#2b7a83];
+  font-family: Inter, sans-serif;
+}
+
+
+
+a, button {
+  transition: 0.25s ease-in-out;
+}
